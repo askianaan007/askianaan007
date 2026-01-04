@@ -1,71 +1,143 @@
-<h1 align="center">Hi 👋, I'm Aski Anaan</h1>
-<h3 align="center">Senior Flutter Developer | Mobile App Developer (Android & iOS)</h3>
+<div align="center">
 
-<p align="center">
-Flutter Developer with 3+ years of experience building scalable, high-performance mobile applications for Android and iOS.
-</p>
+# 💼 Aski Anaan
 
-- 🚀 I specialize in **Flutter & Dart mobile application development**
-- 📱 Experienced in **Android & iOS app development**, deployment, and maintenance
-- 🔥 Strong experience with **Firebase, REST APIs, Stripe payments, and real-time features**
-- 🗺️ Built apps using **Google Maps, geolocation, markers, and clustering**
-- 🧠 State management using **Provider, GetX (basic BLoC)**
-- ⚙️ Focused on **clean code, performance optimization, and scalable architecture**
-- 🌱 Currently expanding knowledge in **native Android (Kotlin – basic)** and platform integrations
-- 👨‍💻 Projects include **real-time analytics platforms, booking systems, and payment-based apps**
-- 📫 Reach me at **askianaan010@gmail.com**
+### Senior Flutter Developer | Cross-Platform Mobile Architect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/aski-anaan" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aski-anaan" height="30" width="40" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.fiverr.com/s/VY5w6Wl" target="_blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="fiverr" height="30" width="40" />
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+</a>
+<a href="mailto:askianaan010@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
+</div>
 
-<a href="https://flutter.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</a>
+---
 
-<a href="https://dart.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</a>
+## 🚀 About Me
 
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
+Senior Flutter Developer with **3+ years** of expertise in architecting and deploying production-grade mobile applications. Specialized in building scalable, high-performance solutions that serve thousands of users across Android and iOS platforms.
 
-<a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-</a>
+```dart
+class Developer {
+  final String name = "Aski Anaan";
+  final String role = "Senior Flutter Developer";
+  final int experience = 3;
+  
+  List<String> expertise = [
+    "Cross-platform mobile development",
+    "Real-time data synchronization",
+    "Payment gateway integration",
+    "Geolocation & mapping solutions"
+  ];
+}
+```
 
-<a href="https://kotlinlang.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-</a>
+---
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+## 💡 Core Expertise
 
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://figma.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+### 📱 Mobile Development
+- ✨ Flutter & Dart ecosystem
+- 🤖 Native Android (Kotlin)
+- 🍎 iOS development & deployment
+- 🏗️ Clean architecture patterns
+- ⚡ Performance optimization
 
-<a href="https://stripe.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://cloud.google.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
+### 🛠️ Technical Stack
+- 🔥 Firebase suite (Auth, Firestore, Storage)
+- 🌐 RESTful API integration
+- 💳 Stripe payment processing
+- 🗺️ Google Maps & geolocation
+- 📊 Real-time analytics systems
 
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Specializations
+
+| Domain | Technologies |
+|--------|-------------|
+| **State Management** | Provider, GetX, BLoC (foundational) |
+| **Backend Services** | Firebase, Cloud Functions, REST APIs |
+| **Payment Solutions** | Stripe, in-app purchases, subscription models |
+| **Geospatial Features** | Google Maps SDK, markers, clustering, route optimization |
+| **Development Tools** | Git, Postman, Figma, CI/CD pipelines |
+
+---
+
+## 🏆 Project Highlights
+
+- 📊 **Real-time Analytics Platform** - High-traffic data visualization app
+- 🎫 **Booking Management System** - Multi-vendor reservation platform
+- 💰 **Payment-Integrated Applications** - Secure transaction processing
+- 🗺️ **Location-Based Services** - Advanced mapping and tracking solutions
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Core Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
+
+### Tools & Services
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+</p>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔍 Advanced native Android development with Kotlin
+- 🏗️ Advanced BLoC pattern implementation
+- 🚀 Platform-specific optimizations and native integrations
+- ☁️ Cloud architecture and serverless solutions
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+**Open for freelance projects and collaboration opportunities**
+
+[📧 askianaan010@gmail.com](mailto:askianaan010@gmail.com)
+
+---
+
+*"Building seamless mobile experiences, one widget at a time."*
+
+</div>
