@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💼 Aski Anaan
+<h1>💼 Aski Anaan</h1>
 
-### Senior Flutter Developer | Cross-Platform Mobile Architect
+<h3>Senior Flutter Developer | Cross-Platform Mobile Architect</h3>
 
 <p>
 <a href="https://linkedin.com/in/aski-anaan" target="_blank">
@@ -18,11 +18,25 @@
 
 </div>
 
----
+<hr/>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-Senior Flutter Developer with **3+ years** of expertise in architecting and deploying production-grade mobile applications. Specialized in building scalable, high-performance solutions that serve thousands of users across Android and iOS platforms.
+<p>
+Senior Flutter Developer with <strong>3+ years</strong> of expertise in architecting and deploying production-grade mobile applications. Specialized in building scalable, high-performance solutions that serve thousands of users across Android and iOS platforms.
+</p>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter" alt="Flutter Expert"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=flat-square" alt="Experience"/>
+<img src="https://img.shields.io/badge/Focus-Mobile%20Apps-orange?style=flat-square" alt="Mobile Apps"/>
+</div>
+
+<br/>
+
+<details open>
+<summary><strong>👨‍💻 Developer Profile</strong></summary>
+<br/>
 
 ```dart
 class Developer {
@@ -39,63 +53,94 @@ class Developer {
 }
 ```
 
----
+</details>
 
-## 💡 Core Expertise
+<hr/>
+
+<h2>💡 Core Expertise</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
-- ✨ Flutter & Dart ecosystem
-- 🤖 Native Android (Kotlin)
-- 🍎 iOS development & deployment
-- 🏗️ Clean architecture patterns
-- ⚡ Performance optimization
+<h3>📱 Mobile Development</h3>
+<ul>
+<li>✨ Flutter & Dart ecosystem</li>
+<li>🤖 Native Android (Kotlin)</li>
+<li>🍎 iOS development & deployment</li>
+<li>🏗️ Clean architecture patterns</li>
+<li>⚡ Performance optimization</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Technical Stack
-- 🔥 Firebase suite (Auth, Firestore, Storage)
-- 🌐 RESTful API integration
-- 💳 Stripe payment processing
-- 🗺️ Google Maps & geolocation
-- 📊 Real-time analytics systems
+<h3>🛠️ Technical Stack</h3>
+<ul>
+<li>🔥 Firebase suite (Auth, Firestore, Storage)</li>
+<li>🌐 RESTful API integration</li>
+<li>💳 Stripe payment processing</li>
+<li>🗺️ Google Maps & geolocation</li>
+<li>📊 Real-time analytics systems</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
-## 🎯 Specializations
+<h2>🎯 Specializations</h2>
 
-| Domain | Technologies |
-|--------|-------------|
-| **State Management** | Provider, GetX, BLoC (foundational) |
-| **Backend Services** | Firebase, Cloud Functions, REST APIs |
-| **Payment Solutions** | Stripe, in-app purchases, subscription models |
-| **Geospatial Features** | Google Maps SDK, markers, clustering, route optimization |
-| **Development Tools** | Git, Postman, Figma, CI/CD pipelines |
+<table>
+<thead>
+<tr>
+<th>Domain</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>State Management</strong></td>
+<td>Provider, GetX, BLoC (foundational)</td>
+</tr>
+<tr>
+<td><strong>Backend Services</strong></td>
+<td>Firebase, Cloud Functions, REST APIs</td>
+</tr>
+<tr>
+<td><strong>Payment Solutions</strong></td>
+<td>Stripe, in-app purchases, subscription models</td>
+</tr>
+<tr>
+<td><strong>Geospatial Features</strong></td>
+<td>Google Maps SDK, markers, clustering, route optimization</td>
+</tr>
+<tr>
+<td><strong>Development Tools</strong></td>
+<td>Git, Postman, Figma, CI/CD pipelines</td>
+</tr>
+</tbody>
+</table>
 
----
+<hr/>
 
-## 🏆 Project Highlights
+<h2>🏆 Project Highlights</h2>
 
-- 📊 **Real-time Analytics Platform** - High-traffic data visualization app
-- 🎫 **Booking Management System** - Multi-vendor reservation platform
-- 💰 **Payment-Integrated Applications** - Secure transaction processing
-- 🗺️ **Location-Based Services** - Advanced mapping and tracking solutions
+<ul>
+<li>📊 <strong>Real-time Analytics Platform</strong> - High-traffic data visualization app</li>
+<li>🎫 <strong>Booking Management System</strong> - Multi-vendor reservation platform</li>
+<li>💰 <strong>Payment-Integrated Applications</strong> - Secure transaction processing</li>
+<li>🗺️ <strong>Location-Based Services</strong> - Advanced mapping and tracking solutions</li>
+</ul>
 
----
+<hr/>
 
-## 🛠️ Technology Stack
+<h2>🛠️ Technology Stack</h2>
 
 <div align="center">
 
-### Core Technologies
+<h3>Core Technologies</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -105,7 +150,7 @@ class Developer {
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
-### Tools & Services
+<h3>Tools & Services</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -117,27 +162,31 @@ class Developer {
 
 </div>
 
----
+<hr/>
 
-## 🌱 Currently Exploring
+<h2>🌱 Currently Exploring</h2>
 
-- 🔍 Advanced native Android development with Kotlin
-- 🏗️ Advanced BLoC pattern implementation
-- 🚀 Platform-specific optimizations and native integrations
-- ☁️ Cloud architecture and serverless solutions
+<ul>
+<li>🔍 Advanced native Android development with Kotlin</li>
+<li>🏗️ Advanced BLoC pattern implementation</li>
+<li>🚀 Platform-specific optimizations and native integrations</li>
+<li>☁️ Cloud architecture and serverless solutions</li>
+</ul>
 
----
+<hr/>
 
 <div align="center">
 
-### 📬 Let's Connect
+<h3>📬 Let's Connect</h3>
 
-**Open for freelance projects and collaboration opportunities**
+<p><strong>Open for freelance projects and collaboration opportunities</strong></p>
 
-[📧 askianaan010@gmail.com](mailto:askianaan010@gmail.com)
+<p>
+<a href="mailto:askianaan010@gmail.com">📧 askianaan010@gmail.com</a>
+</p>
 
----
+<hr/>
 
-*"Building seamless mobile experiences, one widget at a time."*
+<p><em>"Building seamless mobile experiences, one widget at a time."</em></p>
 
 </div>
